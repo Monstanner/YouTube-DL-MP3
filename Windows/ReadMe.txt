@@ -8,6 +8,6 @@ Wichtig ist hierbei, dass man den Backslash \ mit einem normalen Slash / ersetzt
 
 Ihr braucht neben youtube-dl noch libav, um Lieder in MP3 zu konvertieren.
 
-Dazu ladet ihr euch hier (builds.libav.org/windows/releases-gpl) libav-11.3-win32.7z für 32-Bit Systeme oder libav-11.3-win64.7z für 64-Bit Systeme herunter.
+Dazu ladet ihr euch hier (http://builds.libav.org/windows/release-gpl/) libav-11.3-win32.7z für 32-Bit Systeme oder libav-11.3-win64.7z für 64-Bit Systeme herunter.
 Dies gemacht, entpackt ihr alles was in dem 7zip-Archiv ist in einen Ordner in welchen sich auch youtube-dl.exe befindet.
 Im selben Ordner packt ihr noch die YouTube-DL-MP3.bat. Von dieser könnt ihr dann eine Verknüpfung auf dem Desktop anlegen und YouTube-DL für Lieder (MP3) nutzen.
