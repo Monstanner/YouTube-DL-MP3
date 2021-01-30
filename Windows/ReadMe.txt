@@ -1,4 +1,4 @@
-Bitte gebt, wo steht #Bitte das ReadMe lesen., den Pfad ein, wo das Lied gespeichert werden soll.
+Bitte gebt, wo steht #Bitte die ReadMe.txt lesen., den Pfad ein, wo das Lied gespeichert werden soll.
 
 Beispiel:
 
