@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=YouTube-DL MP3
+Comment=Zum herunterladen von Liedern auf YouTube und anderen Plattformen.
+Exec=bash /Pfad/zu/YouTube-MP3.sh
+Icon=/Pfad/zum/Icon.png
+Terminal=true
+Type=Application
+Categories=Network;
