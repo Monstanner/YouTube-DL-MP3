@@ -3,7 +3,7 @@
 cd #Hier bitte den Pfad eingeben, wo das Lied gespeichert werden soll.
 
 echo ---------------------------------------------------
-echo Bitte füge den Link zu dem Lied ein.
+echo Bitte füge den Link zu dem Lied ein (Strg / Ctrl + Shift + V oder Rechtsklick > Einfügen) und bestätige dann mit Enter.
 echo ---------------------------------------------------
 while read INPUT
  do
