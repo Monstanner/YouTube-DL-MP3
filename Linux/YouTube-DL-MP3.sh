@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo ---------------------------------------------------
+echo YouTube-DL MP3 v.1.2 20210919 by Monstanner
+echo ---------------------------------------------------
+
 cd #Hier bitte den Pfad eingeben, wo das Lied gespeichert werden soll.
 
 echo ---------------------------------------------------
@@ -9,5 +13,5 @@ while read INPUT
  do
   echo Wird heruntergeladen...
 youtube-dl -xo "%(title)s.%(ext)s" --audio-format mp3 --audio-quality 0 "$INPUT"
-break 
+break
 done
